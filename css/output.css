@@ -544,16 +544,16 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
 .mt-10 {
   margin-top: 2.5rem;
 }
 
 .mt-7 {
   margin-top: 1.75rem;
-}
-
-.mb-10 {
-  margin-bottom: 2.5rem;
 }
 
 .flex {
